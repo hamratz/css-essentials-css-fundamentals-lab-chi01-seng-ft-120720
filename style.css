@@ -4,11 +4,7 @@ body {
   margin: 0;
 }
 
-h1 {
-  text-align: center;
-}
-
-#featured-property h1, p {
+h1, h3, p {
   text-align: center;
 }
 
