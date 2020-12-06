@@ -4,6 +4,6 @@ body {
   margin: 0;
 }
 
-featured-property h1, p {
+featured-property > h1, p {
   text-align: center;
 }
