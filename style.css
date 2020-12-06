@@ -4,8 +4,14 @@ body {
   margin: 0;
 }
 
-h1, nav {
+h1 {
   text-align: center;
+}
+
+nav {
+  text-align: center;
+  background-color: grey;
+  
 }
 
 #featured-property p, figcaption {
