@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+nav {
+  text-align: center;
+  
+}
 
 #featured-property p {
   text-align: center;
