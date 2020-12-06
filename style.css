@@ -4,12 +4,9 @@ body {
   margin: 0;
 }
 
-nav {
-  text-align: center;
-  
-}
 
-#featured-property p {
+
+#featured-property p, figcaption {
   text-align: center;
   display: inline-block;
   padding-left: 800px;
