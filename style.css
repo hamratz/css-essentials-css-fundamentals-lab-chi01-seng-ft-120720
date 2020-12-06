@@ -6,8 +6,8 @@ body {
 
 
 #featured-property p {
-  text-align: center
-  
+  text-align: center;
+  display: inline-block;
 }
 
 img {
