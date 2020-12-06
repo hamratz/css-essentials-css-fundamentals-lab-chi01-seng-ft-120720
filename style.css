@@ -4,8 +4,9 @@ body {
   margin: 0;
 }
 
-nav, h1, h3, p, figcaption {
-  text-align: center;
+
+#featured-property {
+  text-align: center
 }
 
 img {
